@@ -2,7 +2,7 @@
   "name": "jquery",
   "version": "1.0.0",
   "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
-  "main": "script.js",
+  "main": "scripts/script.js",
   "scripts": {
     "test": "jest"
   },
