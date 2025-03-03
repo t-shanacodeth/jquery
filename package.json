@@ -2,7 +2,7 @@
   "name": "jquery",
   "version": "1.0.0",
   "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/t-shanacodeth/jquery/issues"
   },
-  "homepage": "https://github.com/t-shanacodeth/jquery#readme"
+  "homepage": "https://github.com/t-shanacodeth/jquery#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
 }
